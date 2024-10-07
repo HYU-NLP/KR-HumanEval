@@ -27,10 +27,9 @@ def translate(prompt, translator):
     return new_prompt
 
     
-api_key = None # assign!
+api_key, save_path = None, None # assign!
 translator = deepl.Translator(api_key)
 dataset = read_problems('HumanEval')
-
 for pid in dataset:
     result = []
     example = dataset[pid]
