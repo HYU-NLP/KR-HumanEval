@@ -6,7 +6,7 @@ The Korean version of the HumanEval benchmark, where the original docstrings are
 * Paper Title: KR-HumanEval을 활용한 언어 모델의 한국어 프로그램 합성 성능 분석 (2024 HCLT)
 
 ## Benchmark Version
-* data/v0/KR_HumanEval.jsonl: original benchmark
+* data/v0/KR_HumanEval.jsonl: original benchmark presented in the paper
 * data/v1/KR_HumanEval.jsonl: original benchmark with improved translation, taking into account the programming context.
   
 ## Acknowledgement
