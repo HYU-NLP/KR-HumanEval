@@ -1,4 +1,4 @@
-## KR_HumanEval Benchmark
+## KR-HumanEval Benchmark
 The Korean version of the HumanEval benchmark, where the original docstrings are translated into Korean
 * Used DeepL translator API for translation.
 * Performed manual post-processing and LLM-based quality evaluation after translation.
